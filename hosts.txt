@@ -527,3 +527,8 @@
 0.0.0.0 www.bgwucxto.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 www.qttbfdygj.com
+0.0.0.0 assapebat.club
+0.0.0.0 pgl.yoyo.org
+0.0.0.0 kzfmgcgbqpgl
+0.0.0.0 kfuagdviywn
+0.0.0.0 jrqntlaquzhqn
