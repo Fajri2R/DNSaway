@@ -461,7 +461,6 @@
 0.0.0.0 mtsfbrpm
 0.0.0.0 andarcair.club
 0.0.0.0 nativeserv.com
-0.0.0.0 cdn.user-api.com
 0.0.0.0 ideliv.net
 0.0.0.0 ashamparm.site
 0.0.0.0 ssljksrdb
@@ -525,9 +524,10 @@
 0.0.0.0 stremanp.com
 0.0.0.0 ufklsidwkso
 0.0.0.0 www.bgwucxto.com
-0.0.0.0 www.gstatic.com
 0.0.0.0 www.qttbfdygj.com
 0.0.0.0 assapebat.club
 0.0.0.0 kzfmgcgbqpgl
 0.0.0.0 kfuagdviywn
 0.0.0.0 jrqntlaquzhqn
+0.0.0.0 ailalbapt.club
+0.0.0.0 aditmedia.g2afse.com
