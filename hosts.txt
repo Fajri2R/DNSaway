@@ -520,7 +520,6 @@
 0.0.0.0 hn3fl.bemobtrk.com
 0.0.0.0 llqahqiw
 0.0.0.0 marketgameframes.com
-0.0.0.0 postlnk.com
 0.0.0.0 stremanp.com
 0.0.0.0 ufklsidwkso
 0.0.0.0 www.bgwucxto.com
@@ -531,3 +530,4 @@
 0.0.0.0 jrqntlaquzhqn
 0.0.0.0 ailalbapt.club
 0.0.0.0 aditmedia.g2afse.com
+0.0.0.0 shoungak.net
