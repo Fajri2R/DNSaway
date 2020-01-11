@@ -188,7 +188,6 @@
 0.0.0.0 zijaipse.com
 0.0.0.0 stun.gradwell.com
 0.0.0.0 easygamepromo.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 sdk-android.ad.smaato.net
 0.0.0.0 bdugjfsmaxzx
 0.0.0.0 e6081b73afec581f.com
@@ -230,7 +229,6 @@
 0.0.0.0 mvcagvwq
 0.0.0.0 adservice.google.co.id
 0.0.0.0 outcome-ssp.supersonicads.com
-0.0.0.0 external-sin2-1.xx.fbcdn.net
 0.0.0.0 www.bgwucxto.com
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 a.losmetas.com
