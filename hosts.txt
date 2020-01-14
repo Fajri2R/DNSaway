@@ -545,3 +545,4 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 postlnk.com
 0.0.0.0 presdithas.pw
+0.0.0.0 psaukrik.net
